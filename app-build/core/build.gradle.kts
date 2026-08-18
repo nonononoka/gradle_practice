@@ -5,3 +5,7 @@ plugins{
 repositories{
     mavenCentral()
 }
+
+dependencies{
+    implementation("com.example.mylib:utils:1.0.0")
+}

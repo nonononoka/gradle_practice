@@ -13,4 +13,6 @@ application{
 
 dependencies{
     implementation(project(":core"))
+    // group名:どのモジュールか:version
+    implementation("com.example.mylib:common:1.0.0")
 }
