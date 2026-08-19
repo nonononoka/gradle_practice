@@ -1,9 +1,5 @@
 plugins{
-    kotlin("jvm") version "2.0.0"
-}
-
-repositories{
-    mavenCentral()
+    id("my-kotlin-convention")
 }
 
 dependencies{
