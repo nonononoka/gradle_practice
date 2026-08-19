@@ -3,7 +3,7 @@ plugins{
 }
 
 dependencies{
-    implementation("io.ktor:ktor-client-core:2.3.0")
+    implementation(libs.ktor.client.core)
 }
 
 group = "com.example.mylib"
