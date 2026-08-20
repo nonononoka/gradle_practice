@@ -4,3 +4,4 @@ rootProject.name = "my-composite-umbrella"
 includeBuild("app-build")
 includeBuild("lib-build")
 includeBuild("build-logic")
+includeBuild("worker")
