@@ -6,3 +6,7 @@ fun greet(){
     println("hello from lib-build!")
     work()
 }
+
+class CommonHello{
+    fun say() = "Hello from Common!"
+}

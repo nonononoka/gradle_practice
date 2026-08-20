@@ -13,4 +13,5 @@ dependencies{
     implementation("com.example.mylib:common:1.0.0")
     implementation(libs.kotlinx.coroutines.core)
     implementation(libs.ktor.client.core)
+    implementation("com.example.mylib:utils:1.0.0")
 }
